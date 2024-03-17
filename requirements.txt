@@ -1,0 +1,10 @@
+# python 3.9
+aiosql==8.0
+aiosqlite==0.19.0
+pydantic==2.5.2
+pydantic-settings==2.1.0
+fastapi==0.104.1
+ultralytics==8.0.196
+python-multipart==0.0.6
+gunicorn
+uvicorn
